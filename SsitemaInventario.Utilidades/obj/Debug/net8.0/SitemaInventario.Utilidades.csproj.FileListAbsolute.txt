@@ -1,0 +1,12 @@
+C:\Users\H614527\source\repos\Sistema_Inventario\SsitemaInventario.Utilidades\bin\Debug\net8.0\SitemaInventario.Utilidades.deps.json
+C:\Users\H614527\source\repos\Sistema_Inventario\SsitemaInventario.Utilidades\bin\Debug\net8.0\SitemaInventario.Utilidades.dll
+C:\Users\H614527\source\repos\Sistema_Inventario\SsitemaInventario.Utilidades\bin\Debug\net8.0\SitemaInventario.Utilidades.pdb
+C:\Users\H614527\source\repos\Sistema_Inventario\SsitemaInventario.Utilidades\obj\Debug\net8.0\SitemaInventario.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H614527\source\repos\Sistema_Inventario\SsitemaInventario.Utilidades\obj\Debug\net8.0\SitemaInventario.Utilidades.AssemblyInfoInputs.cache
+C:\Users\H614527\source\repos\Sistema_Inventario\SsitemaInventario.Utilidades\obj\Debug\net8.0\SitemaInventario.Utilidades.AssemblyInfo.cs
+C:\Users\H614527\source\repos\Sistema_Inventario\SsitemaInventario.Utilidades\obj\Debug\net8.0\SitemaInventario.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\H614527\source\repos\Sistema_Inventario\SsitemaInventario.Utilidades\obj\Debug\net8.0\SitemaInventario.Utilidades.sourcelink.json
+C:\Users\H614527\source\repos\Sistema_Inventario\SsitemaInventario.Utilidades\obj\Debug\net8.0\SitemaInventario.Utilidades.dll
+C:\Users\H614527\source\repos\Sistema_Inventario\SsitemaInventario.Utilidades\obj\Debug\net8.0\refint\SitemaInventario.Utilidades.dll
+C:\Users\H614527\source\repos\Sistema_Inventario\SsitemaInventario.Utilidades\obj\Debug\net8.0\SitemaInventario.Utilidades.pdb
+C:\Users\H614527\source\repos\Sistema_Inventario\SsitemaInventario.Utilidades\obj\Debug\net8.0\ref\SitemaInventario.Utilidades.dll
