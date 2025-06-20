@@ -45,7 +45,7 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.7",
           "SistemaInventario.AccesoDatos": "1.0.0",
           "SistemaInventario.Modelos": "1.0.0",
-          "SitemaInventario.Utilidades": "1.0.0",
+          "SistemaInventario.Utilidades": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "8.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "8.0.0.0",
           "Microsoft.AspNetCore.Authentication.BearerToken": "8.0.0.0",
@@ -2597,7 +2597,7 @@
           "Microsoft.EntityFrameworkCore.Relational": "8.0.17",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.17",
           "SistemaInventario.Modelos": "1.0.0",
-          "SitemaInventario.Utilidades": "1.0.0"
+          "SistemaInventario.Utilidades": "1.0.0"
         },
         "runtime": {
           "SistemaInventario.AccesoDatos.dll": {
@@ -2611,7 +2611,7 @@
       },
       "SistemaInventario.Modelos/1.0.0": {
         "dependencies": {
-          "SitemaInventario.Utilidades": "1.0.0"
+          "SistemaInventario.Utilidades": "1.0.0"
         },
         "runtime": {
           "SistemaInventario.Modelos.dll": {
@@ -2623,15 +2623,15 @@
           "SistemaInventario.Modelos.dll": {}
         }
       },
-      "SitemaInventario.Utilidades/1.0.0": {
+      "SistemaInventario.Utilidades/1.0.0": {
         "runtime": {
-          "SitemaInventario.Utilidades.dll": {
+          "SistemaInventario.Utilidades.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         },
         "compile": {
-          "SitemaInventario.Utilidades.dll": {}
+          "SistemaInventario.Utilidades.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/8.0.0.0": {
@@ -5641,7 +5641,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "SitemaInventario.Utilidades/1.0.0": {
+    "SistemaInventario.Utilidades/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace SistemaInventario.AccesoDatos.Repositorios
 {
-    public class BodegaRepositorio : Repositorio<UnidadTrabajo>, IBodegaRepositorio
+    public class BodegaRepositorio : Repositorio<Bodega>, IBodegaRepositorio
     {
 
         private readonly ApplicationDbContext _db;
@@ -18,7 +18,7 @@ namespace SistemaInventario.AccesoDatos.Repositorios
         {
             _db = db;
         }
-        public void Actualizar(UnidadTrabajo bodega)
+        public void Actualizar(Bodega bodega)
         {
             var bodegaDb = _db.Bodegas.FirstOrDefault(b => b.Id == bodega.Id);
             if (bodegaDb == null)
@@ -33,5 +33,7 @@ namespace SistemaInventario.AccesoDatos.Repositorios
                 _db.SaveChanges();
             }
         }
+
+ 
     }
 }

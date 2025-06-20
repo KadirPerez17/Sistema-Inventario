@@ -13,7 +13,7 @@
           "Microsoft.EntityFrameworkCore.Relational": "8.0.17",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.17",
           "SistemaInventario.Modelos": "1.0.0",
-          "SitemaInventario.Utilidades": "1.0.0"
+          "SistemaInventario.Utilidades": "1.0.0"
         },
         "runtime": {
           "SistemaInventario.AccesoDatos.dll": {}
@@ -631,7 +631,7 @@
       },
       "SistemaInventario.Modelos/1.0.0": {
         "dependencies": {
-          "SitemaInventario.Utilidades": "1.0.0"
+          "SistemaInventario.Utilidades": "1.0.0"
         },
         "runtime": {
           "SistemaInventario.Modelos.dll": {
@@ -640,9 +640,9 @@
           }
         }
       },
-      "SitemaInventario.Utilidades/1.0.0": {
+      "SistemaInventario.Utilidades/1.0.0": {
         "runtime": {
-          "SitemaInventario.Utilidades.dll": {
+          "SistemaInventario.Utilidades.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -1081,7 +1081,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "SitemaInventario.Utilidades/1.0.0": {
+    "SistemaInventario.Utilidades/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

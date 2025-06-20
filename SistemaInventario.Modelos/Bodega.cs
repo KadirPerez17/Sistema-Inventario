@@ -21,9 +21,6 @@ namespace SistemaInventario.Modelos
         public string Descripcion { get; set; }
 
         [Required(ErrorMessage = "El estado es requerido")]
-        public string Estado
-        {
-            get; set;
-        }
+        public string Estado{ get; set; }
     }
 }

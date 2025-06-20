@@ -439,10 +439,8 @@ C:\Users\H614527\source\repos\Sistema_Inventario\Sistema_Inventario\bin\Debug\ne
 C:\Users\H614527\source\repos\Sistema_Inventario\Sistema_Inventario\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\H614527\source\repos\Sistema_Inventario\Sistema_Inventario\bin\Debug\net8.0\SistemaInventario.AccesoDatos.dll
 C:\Users\H614527\source\repos\Sistema_Inventario\Sistema_Inventario\bin\Debug\net8.0\SistemaInventario.Modelos.dll
-C:\Users\H614527\source\repos\Sistema_Inventario\Sistema_Inventario\bin\Debug\net8.0\SitemaInventario.Utilidades.dll
 C:\Users\H614527\source\repos\Sistema_Inventario\Sistema_Inventario\bin\Debug\net8.0\SistemaInventario.AccesoDatos.pdb
 C:\Users\H614527\source\repos\Sistema_Inventario\Sistema_Inventario\bin\Debug\net8.0\SistemaInventario.Modelos.pdb
-C:\Users\H614527\source\repos\Sistema_Inventario\Sistema_Inventario\bin\Debug\net8.0\SitemaInventario.Utilidades.pdb
 C:\Users\H614527\source\repos\Sistema_Inventario\Sistema_Inventario\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\H614527\source\repos\Sistema_Inventario\Sistema_Inventario\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\H614527\source\repos\Sistema_Inventario\Sistema_Inventario\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
@@ -579,3 +577,5 @@ C:\Users\H614527\source\repos\Sistema_Inventario\Sistema_Inventario\bin\Debug\ne
 C:\Users\H614527\source\repos\Sistema_Inventario\Sistema_Inventario\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\H614527\source\repos\Sistema_Inventario\Sistema_Inventario\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\H614527\source\repos\Sistema_Inventario\Sistema_Inventario\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\H614527\source\repos\Sistema_Inventario\Sistema_Inventario\bin\Debug\net8.0\SistemaInventario.Utilidades.dll
+C:\Users\H614527\source\repos\Sistema_Inventario\Sistema_Inventario\bin\Debug\net8.0\SistemaInventario.Utilidades.pdb
